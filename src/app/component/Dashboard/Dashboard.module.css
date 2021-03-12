@@ -1,0 +1,74 @@
+.workspace {
+  padding-top: 0.5%;
+}
+
+main {
+  background-color: #eee;
+  min-height: 100vh;
+}
+
+.body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.sidenav {
+  margin-left: -90px;
+  padding: 10px;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 10vw;
+          flex: 0 0 10vw;
+  background-color: #161922e0;
+  height: 30vh;
+}
+
+.container1 {
+  width: 100%;
+  height: auto;
+}
+
+.sidenav ul {
+  list-style: none;
+  margin-left: -45px;
+}
+
+.sidenav ul li {
+  color: #b8a046;
+  border: 2px solid transparent;
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+}
+
+.sidenav ul li a {
+  color: #b8a046;
+}
+
+.sidenav li {
+  list-style: none;
+}
+
+.main1 {
+  padding: 10px;
+  -webkit-box-shadow: 1px 2px 3px 4px #888888;
+          box-shadow: 1px 2px 3px 4px #888888;
+  width: 180%;
+  margin-left: 10px;
+}
+
+.main2 {
+  border: 1px solid grey;
+}
+
+.nav2 ul {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto auto auto;
+      grid-template-columns: auto auto auto;
+}
+
+.nav2 li {
+  list-style: none;
+}
+/*# sourceMappingURL=Dashboard.module.css.map */

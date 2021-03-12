@@ -1,0 +1,1 @@
+export const API_BASE_URL = "https://service-portal-api.herokuapp.com/api"
