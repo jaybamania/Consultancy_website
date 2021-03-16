@@ -1,1 +1,3 @@
-# Consultancy_website
+# Consultancy_website frontend development
+
+Using ReactJS and SCSS
